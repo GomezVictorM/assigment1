@@ -1,5 +1,13 @@
 package vg222et_assign1;
 
+/*  This Console shows a Menu in which the user choose to try/test one of the
+    seven Exercises from Assignment 1.
+    Run the program in your IDE and then enter a number from 1 to 8 to select an
+    option and then follow the instructions of every Exercise.
+    Enjoy!
+*/
+
+
 import java.util.Scanner;
 
 public class Console {
